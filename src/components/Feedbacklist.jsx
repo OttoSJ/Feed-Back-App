@@ -1,5 +1,5 @@
 import React from "react";
-import Feedbackitem from "./FeedbackItem";
+import Feedbackitem from "./Feedbackitem";
 import PropTypes from "prop-types";
 
 function FeedbackList({ feedback, handleDelete }) {
